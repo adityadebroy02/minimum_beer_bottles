@@ -1,7 +1,7 @@
 # minimum_beer_bottles
 A Beer Manufacturing Company sells beer in bottle of different sizes - 1 gallon, 5 gallons, 7 gallons, 10 gallons. Given a order of supply of N gallons the manufacturer wants to fulfil requirements with minimum number of bottles. Write a program to find the minimum number of bottles required to fulfill N number of Gallons order?
 
-Input :
+<b>Input : </b>
 
 Integer N denoting the supply order of Beer in Gallons
 
